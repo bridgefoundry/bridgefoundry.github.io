@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest News
+title: The Real Magic of Bridge Foundry
 ---
 {% for post in site.tags.ready %}
 
