@@ -17,9 +17,20 @@ script:
   - bundle exec jekyll build
 
 deploy:
-  skip_cleanup: true
-  provider: firebase
-  token:
-    secure: "${FIREBASE_TOKEN}"
-  project: bridgefoundry-site
+  - provider: firebase
+    skip_cleanup: true
+    project: bridgefoundry-site
+    token:
+      secure: "${FIREBASE_TOKEN}"
+    on:
+      branch: master
+  - provider: firebase
+    skip_cleanup: true
+    project: bridgefoundry-staging
+    token:
+      secure: "${FIREBASE_TOKEN}"
+    on:
+      branch: staging
+
+
 
