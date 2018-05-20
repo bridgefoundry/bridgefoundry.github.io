@@ -1,10 +1,81 @@
+---
+---
+
+// $dark: #221F5E;
+$dark: #21202A;
+$dark2: #2e258a;
+$primary: #3AAD5D;
+$light: #FAFAFA;
+$light2: #84A5AE;
+
+$light-text: #DDDDEE;
+
+
+// FAFAFA - light
+// 84A5AE - light accent
+// 3AAD5D - main
+// 827FA4 - dark accent
+// 21202A - dark shade
+
+html {
+  background-color: $light;
+  font-family: 'Alegreya', serif;
+}
 
 body {
   padding-top: 50px;
+  background-color: $light;
+  color: $dark;
+}
+
+h1, h2, h3, h4 {
+  color: $dark2;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: normal;
 }
 
 h2 {
   font-size: 24px;
+}
+
+.navbar {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.navbar-default {
+  background: #fff;
+  .navbar-brand {
+    color: $dark2;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+  }
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: $dark2;
+}
+
+footer {
+  padding: 20px 0px;
+  background-color: $dark;
+  color: $light-text;
+  h3, h4 {
+    color: $light-text;
+    font-variant: small-caps;
+  }
+  a, a:visited {
+    color: $light-text;
+  }
+  a:hover {
+    color: $light2;
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+    padding-left: 0px;
+  }
 }
 
 .hero {
