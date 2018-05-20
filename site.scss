@@ -40,6 +40,12 @@ h2 {
   font-size: 24px;
 }
 
+img {
+  width: 100%;  // usually we want images to size to container
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .navbar {
   padding-left: 40px;
   padding-right: 40px;
@@ -92,6 +98,27 @@ footer {
   color: $light;
   font-size: 24px;
   padding: 10px;
+}
+
+.banner {
+  margin: 40px 0px;
+  color: $light;
+  padding: 40px;
+  &.purple {
+    background: $elixir-dark;
+  }
+  &.ruby {
+    background: $ruby-dark;
+  }
+  h2 {
+    color: $light;
+  }
+  p {
+    font-size: 24px;
+    text-align: center;
+    margin: 0px auto;
+    font-family: 'Alegreya', serif;
+  }
 }
 
 .headline {
