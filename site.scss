@@ -9,7 +9,9 @@ $light: #FAFAFA;
 $light2: #84A5AE;
 
 $light-text: #DDDDEE;
-
+$ruby-dark: #e64024;
+$ruby-light: #EB6852;
+$elixir-dark: #634580;
 
 // FAFAFA - light
 // 84A5AE - light accent
@@ -81,6 +83,15 @@ footer {
 .hero {
   width: 100%;
   height: auto;
+}
+
+.overlay-text {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  color: $light;
+  font-size: 24px;
+  padding: 10px;
 }
 
 .headline {
