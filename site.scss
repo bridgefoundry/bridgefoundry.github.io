@@ -21,13 +21,14 @@ $elixir-dark: #634580;
 
 html {
   background-color: $light;
-  font-family: 'Alegreya', serif;
 }
 
 body {
   padding-top: 50px;
   background-color: $light;
   color: $dark;
+  font-family: 'Alegreya', serif;
+  font-size: 18px;
 }
 
 h1, h2, h3, h4 {
@@ -44,6 +45,10 @@ img {
   width: 100%;  // usually we want images to size to container
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.img-holder {
+  margin: auto;
 }
 
 .navbar {
@@ -89,6 +94,7 @@ footer {
 .hero {
   width: 100%;
   height: auto;
+  padding: 0px 0px 20px 0px;
 }
 
 .overlay-text {
@@ -96,8 +102,8 @@ footer {
   height: auto;
   position: absolute;
   color: $light;
-  font-size: 24px;
-  padding: 10px;
+  font-size: 32px;
+  padding: 20px 50px;
 }
 
 .banner {
@@ -110,6 +116,9 @@ footer {
   &.ruby {
     background: $ruby-dark;
   }
+  &.accent {
+    background: $light2;
+  }
   h2 {
     color: $light;
   }
@@ -121,8 +130,22 @@ footer {
   }
 }
 
+.quote {
+  background: $light2;
+  color: $light;
+  font-size: 24px;
+  font-family: 'Alegreya', serif;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 6px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
 .headline {
   text-align: center;
+  font-size: 32px;
+  padding-bottom: 40px;
 }
 
 .toc {
