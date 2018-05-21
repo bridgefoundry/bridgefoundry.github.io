@@ -8,7 +8,7 @@ title: Advisory Board
 
 ### Jennifer Argüello
 
-<img alt="Bridge Foundry Advisor Jennifer Argüello" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAARIAAAAJDJlOTBkOWIxLTI0MmUtNDBlZS1hNTA2LTNkNjA0M2RmM2IzNQ.jpg">
+<img alt="Bridge Foundry Advisor Jennifer Argüello" class="img-circle bridgefoundry-advisors-imgs" src="{{ site.github.url }}/images/advisors/jen.jpeg">
 
 Jennifer Argüello is currently the Senior Technical Development Manager at GitHub. She is passionate about making the world a better place through innovations in education and technology.  15+ years of professional experience in a variety of technical roles for small and large high-tech companies.  20+ years of involvement in national organizations aimed at the advancement of underrepresented people of color and women in technology fields.  Jennifer serves on the advisory boards of Globaloria and Silicon Valley Latino.
 
@@ -25,7 +25,8 @@ Areas of Focus
 
 ### Chris Aniszczyk
 
-<img alt="Bridge Foundry Advisor Chris Aniszczyk" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/035/29b/2ddb4a1.jpg">
+<img alt="Bridge Foundry Advisor Chris Aniszczyk" class="img-circle bridgefoundry-advisors-imgs" src="{{ site.github.url }}/images/advisors/chris.jpeg">
+
 
 Chris Aniszczyk ([@cra](https://twitter.com/cra)) is an engineer by trade with a passion for open source and building developer communities. He currently serves as interim Executive Director of the [Cloud Native Computing Foundation](http://cncf.io/). At Twitter, he created their [open source program](https://engineering.twitter.com/opensource) ([@TwitterOSS](https://twitter.com/twitteross)) and leads their open source efforts. For many years he served on the Eclipse Foundation's [Board of Directors](https://eclipse.org/org/foundation/directors.php) representing the committer community and the [Java Community Process Executive Committee](https://jcp.org/en/participation/committee). He's also served as a mentor for many years at Google Summer's of Code (GSOC) and helped Twitter participate in the Outreach program. In a previous life, he bootstrapped an open source consulting company, made many mistakes, lead and hacked on many [eclipse.org](http://eclipse.org/) and Linux related projects.
 
@@ -43,7 +44,7 @@ Areas of Focus
 
 ###  Amanda Cooper
 
-<img alt="Bridge Foundry Advisor Amanda Cooper" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/p/8/005/0b7/130/18a8910.jpg">
+<img alt="Bridge Foundry Advisor Amanda Cooper" class="img-circle bridgefoundry-advisors-imgs" src="{{ site.github.url }}/images/advisors/amanda.jpeg">
 
 Amanda Cooper ([@MandaCoop](https://twitter.com/MandaCoop)) is a seasoned strategic communicator and campaigner providing consulting, training and coaching for social justice movement leaders and organizations. She is proud to have worked with clients like the Ms. Foundation for Women, Forward Together, Welcoming America, Demos, Transgender Law Center, and the Ella Baker Center for Human Rights.
 
@@ -61,7 +62,8 @@ Areas of Focus
 
 ### Lisa Gelobter
 
-<img alt="Bridge Foundry Advisor Lisa Gelobter" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAUYAAAAJDcyODAzNzY1LTg2MjItNDAwOS1hMTBlLTM3NzgxMGRlMGYzZQ.jpg">
+<img alt="Bridge Foundry Advisor Lisa Gelobter" class="img-circle bridgefoundry-advisors-imgs" src="{{ site.github.url }}/images/advisors/lisa.jpeg">
+
 
 Lisa Gelobter works for the White House, in the United States Digital Service. She is currently serving as the Chief Digital Service Officer with the US Department of Education.
 
@@ -81,7 +83,7 @@ Areas of Focus
 
 ### Sef Kloninger
 
-<img alt="Bridge Foundry Advisor Sef Kloninger" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAKCAAAAJGRkMTE3NTQyLTJlNzMtNGIxMy04MmEwLTFjZWY0NDE4MTE3ZQ.jpg">
+<img alt="Bridge Foundry Advisor Sef Kloninger" class="img-circle bridgefoundry-advisors-imgs" src="{{ site.github.url }}/images/advisors/sef.jpeg">
 
 Sef Kloninger ([@sefk](https://twitter.com/sefk)) has been a professional software engineer and engineering manager for over twenty years. His expertise is building and scaling Internet infrastructure and applications at Akamai, VMware, Ning, Google, and several startups. He has worked in big enterprise software engineering organizations as well as small fast-moving teams. He currently manages the engineering team at YouTube that builds the data warehouse for over a billion active users.
 
