@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: History and where we are now
-tags: ready
 ---
 
 ### How we got started

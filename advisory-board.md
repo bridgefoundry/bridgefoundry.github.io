@@ -47,7 +47,7 @@ Areas of Focus
 
 Amanda Cooper ([@MandaCoop](https://twitter.com/MandaCoop)) is a seasoned strategic communicator and campaigner providing consulting, training and coaching for social justice movement leaders and organizations. She is proud to have worked with clients like the Ms. Foundation for Women, Forward Together, Welcoming America, Demos, Transgender Law Center, and the Ella Baker Center for Human Rights.
 
-She has also served as a communications director and press secretary for labor unions, providing critical strategic and tactical support to dozens of successful organizing, corporate and political campaigns. Before joining the labor movement, Amanda was the media relations manager for the Brennan Center for Justice, and her early career included roles in public relations and development for the Children’s Village in Dobbs Ferry, NY and for the Los Angeles Regional Foodbank. She currently a partner at [LightBox Collaborative](http://www.lightboxcollaborative.com/). 
+She has also served as a communications director and press secretary for labor unions, providing critical strategic and tactical support to dozens of successful organizing, corporate and political campaigns. Before joining the labor movement, Amanda was the media relations manager for the Brennan Center for Justice, and her early career included roles in public relations and development for the Children’s Village in Dobbs Ferry, NY and for the Los Angeles Regional Foodbank. She currently a partner at [LightBox Collaborative](http://www.lightboxcollaborative.com/).
 
 Areas of Focus
 
