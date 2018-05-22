@@ -100,12 +100,15 @@ footer {
   color: $light;
   font-size: 32px;
   padding: 20px 50px;
+  p {
+    font-family: 'Alegreya Sans', sans-serif;
+  }
 }
 
 .banner {
   margin: 40px 0px;
   color: $light;
-  padding: 40px;
+  padding: 120px;
   &.purple {
     background: $elixir-dark;
   }
@@ -123,6 +126,7 @@ footer {
     text-align: center;
     margin: 0px auto;
     font-family: 'Alegreya', serif;
+    padding-bottom: 10px;
   }
 }
 
