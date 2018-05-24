@@ -17,7 +17,7 @@ enlarging the community of people who
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 <p>&nbsp;</p>
-**Your donation is fully tax-deductible.**
+**Your donation is fully tax-deductible.** See [About BridgeFoundry](/about) for more non-profit details, including our EIN.
 
 Contributions to Bridge Foundry allow thousands of volunteers across the world
 to teach workshops and provide resource to women and others who are underserved
