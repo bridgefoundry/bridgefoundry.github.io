@@ -1,7 +1,7 @@
 Bridge Foundry Web Site
 =======================
 
-This site is build with [Jeykll](https://jekyllrb.com/) and hosted on 
+This site is build with [Jeykll](https://jekyllrb.com/) and hosted on
 [Github Pages](https://pages.github.com/) -- pushing the master branch will
 update the website.
 
@@ -33,8 +33,8 @@ gem install bundler
 bundle
 ```
 
-Note: the website integrates two other repos, which are integrated as submodules 
-and then need to be built individually.  If you want to make changes to those, 
+Note: the website integrates two other repos, which are integrated as submodules
+and then need to be built individually.  If you want to make changes to those,
 work directly in these separate repos
 
 * [code of conduct](https://github.com/bridgefoundry/code-of-conduct)
@@ -73,3 +73,6 @@ send email to admin@bridgefoundry.org
 When we update the code-of-conduct or workshop-map, then we need to make some
 kind of change to this repo (such as this README) in order to trigger a new
 deploy.
+
+To test out changing, any commits to `staging` branch will be automatically
+deployed to https://bridgefoundry-staging.firebaseapp.com/
