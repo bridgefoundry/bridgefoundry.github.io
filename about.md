@@ -35,24 +35,23 @@ operate with full transparency, please take a look:
       <div class="board__members">
         <a name="board"></a>
         <h2>Board of Directors</h2>
-        <p>Sarah Allen, CEO &amp; Chair</p>
-        <p>Karen Herreid, Treasurer &amp; board member</p>
-        <p>Isa Herico, Secretary, board member</p>
+        <p>Ilen Zazueta-Hall, Chair</p>
+        <p>Karen Herreid, Treasurer</p>
+        <p>Isa Herico, Secretary</p>
+        <p>Sarah Allen</p>
 
         <div class="board_staff">
           <a name="staff"></a>
           <h2>Staff Members</h2>
-          <p>Diana Luepke, COO</p>
-          <p>Mary Jenn, Communications Manager</p>
+          <p>Sarah Allen, CEO</p>
+          <p>Jéneen Perkins, <a href="https://consulteclat.com/">Eclat Enterprises, Finance Manager</a></p>
         </div>
-
 
         <h2>Program Board</h2>
         <a name="program-board"></a>
-        <p>Ilen Zazueta-Hall, Chair</p>
+        <p>Laura Kirby, Chair</p>
         <p>Chris Koehnen, ClojureBridge</p>
         <p>Anna Neyzberg, RailsBridge</p>
-        <p>Laura Kirby, Bridge Liason</p>
         <p>Johnny Boursiquot, GoBridge</p>
 
         <h2>Past Board Members</h2>
@@ -85,4 +84,3 @@ operate with full transparency, please take a look:
       </div>
     </div>
   </div>
-</div>
