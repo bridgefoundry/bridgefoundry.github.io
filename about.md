@@ -22,9 +22,12 @@ and chapters focus on expanding diversity in tech via outreach to underrepresent
 and outreach efforts are targeted primarily at women with the remaining 30% focusing on other underrepresented groups.
 
 In the US, Bridge Foundry, Inc., is a 501c3 tax-exempt organization.
-For those who want to look under the hood, our official documents (including bylaws, EIN, minutes, etc.) are available
-<a href="https://docs.google.com/document/d/1xyZoOL9GNWIAEXSBoWvaCRSJSFh1qH5QIvsjZFOYwKA/edit?usp=sharing">here.</a>
-We support many community based initiatives in the US and other countries through grants and open source curricula.
+We support many community based initiatives in the US and other
+countries through grants and open source curricula. We seek to
+operate with full transparency, please take a look:
+
+  * [Corporate Docs](https://operations.bridgefoundry.org/corporate-docs/README/), including EIN, by-laws, etc.
+  * [Operations Guide](https://operations.bridgefoundry.org/) - internal policies, how we organize volunteers and spend money
 
 
   <div class="board">
