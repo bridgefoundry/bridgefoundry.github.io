@@ -74,5 +74,5 @@ When we update the code-of-conduct or workshop-map, then we need to make some
 kind of change to this repo (such as this README) in order to trigger a new
 deploy.
 
-To test out changing, any commits to `staging` branch will be automatically
+To test out changes, any commits to `staging` branch will be automatically
 deployed to https://bridgefoundry-staging.firebaseapp.com/
