@@ -12,14 +12,15 @@ Bridge Foundry’s primary focus is on expanding diversity in specific technolog
 with chapters across multiple geographies. Bridge Foundry supplies tools and operational support to the leaders of
 these chapters.
 
-ridge Foundry’s key differentiator from other tech training initiatives is its focus on training repeat
+Bridge Foundry’s key differentiator from other tech training initiatives is its focus on training repeat
 participants as teachers. As teachers and leaders, Bridge Foundry volunteers learn to catch and correct disrespectful behavior
 in human interaction, along with gaps in technical understanding. While the focus is on technical skill development,
 we have anecdotal evidence that these skills also contribute to workplace transformation.
 
-All of Bridge Foundry’s bridges
-and chapters focus on expanding diversity in tech via outreach to underrepresented groups. Seventy percent of workshop
-and outreach efforts are targeted primarily at women with the remaining 30% focusing on other underrepresented groups.
+All of Bridge Foundry’s bridges and chapters focus on expanding diversity in
+tech via outreach to underrepresented groups. Seventy percent of workshop
+and outreach efforts are targeted primarily at women with the remaining 30%
+focusing on other underrepresented groups.
 
 In the US, Bridge Foundry, Inc., is a 501c3 tax-exempt organization.
 We support many community based initiatives in the US and other
