@@ -203,6 +203,40 @@ footer {
   margin-top: 2px;
 }
 
+/* Newsletter button */
+.newsletter-area {
+  height: 60px;
+}
+.newsletter-btn {
+  margin: 4px;
+  color: #fff;
+  background-color: $elixir-dark;
+  border-bottom:2px solid darken($elixir-dark, 40%);
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  text-decoration:none;
+  float: left;
+}
+
+.newsletter-btn:hover, .newsletter-bin:visited {
+  color: #fff;
+  background-color: lighten($elixir-dark, 25%);
+  border-bottom: 2px solid lighten($elixir-dark, 30%); 
+  outline: none;
+  text-decoration: none;
+}
+
+
+.newsletter:active {
+  color: #fff;
+  background-color: lighten($elixir-dark, 30%);
+  border-bottom: 2px solid lighten($elixir-dark, 80%);
+  margin-top: 2px;
+}
+
+
 .board {
   display: flex;
   flex-direction: row;
