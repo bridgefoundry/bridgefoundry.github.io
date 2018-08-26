@@ -13,6 +13,8 @@ $ruby-dark: #e64024;
 $ruby-light: #EB6852;
 $elixir-dark: #634580;
 
+$neutral: #84A5AE;
+
 // FAFAFA - light
 // 84A5AE - light accent
 // 3AAD5D - main
@@ -210,8 +212,8 @@ footer {
 .newsletter-btn {
   margin: 4px;
   color: #fff;
-  background-color: $elixir-dark;
-  border-bottom:2px solid darken($elixir-dark, 40%);
+  background-color: $neutral;
+  border-bottom:2px solid darken($neutral, 40%);
   padding: 10px;
   padding-left: 20px;
   padding-right: 20px;
@@ -222,8 +224,8 @@ footer {
 
 .newsletter-btn:hover, .newsletter-bin:visited {
   color: #fff;
-  background-color: lighten($elixir-dark, 25%);
-  border-bottom: 2px solid lighten($elixir-dark, 30%); 
+  background-color: lighten($neutral, 25%);
+  border-bottom: 2px solid lighten($neutral, 30%); 
   outline: none;
   text-decoration: none;
 }
