@@ -224,17 +224,17 @@ footer {
 
 .newsletter-btn:hover, .newsletter-bin:visited {
   color: #fff;
-  background-color: lighten($neutral, 25%);
-  border-bottom: 2px solid lighten($neutral, 30%); 
+  background-color: lighten($neutral, 10%);
+  border-bottom: 2px solid lighten($neutral, 20%); 
   outline: none;
   text-decoration: none;
 }
 
 
-.newsletter:active {
+.newsletter-btn:active {
   color: #fff;
-  background-color: lighten($elixir-dark, 30%);
-  border-bottom: 2px solid lighten($elixir-dark, 80%);
+  background-color: lighten($neutral, 20%);
+  border-bottom: 2px solid lighten($neutral, 30%);
   margin-top: 2px;
 }
 
