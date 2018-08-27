@@ -13,6 +13,8 @@ $ruby-dark: #e64024;
 $ruby-light: #EB6852;
 $elixir-dark: #634580;
 
+$neutral: #84A5AE;
+
 // FAFAFA - light
 // 84A5AE - light accent
 // 3AAD5D - main
@@ -202,6 +204,40 @@ footer {
   border-top:2px solid #9a3c47;
   margin-top: 2px;
 }
+
+/* Newsletter button */
+.newsletter-area {
+  height: 60px;
+}
+.newsletter-btn {
+  margin: 4px;
+  color: #fff;
+  background-color: $neutral;
+  border-bottom:2px solid darken($neutral, 40%);
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  text-decoration:none;
+  float: left;
+}
+
+.newsletter-btn:hover, .newsletter-bin:visited {
+  color: #fff;
+  background-color: lighten($neutral, 10%);
+  border-bottom: 2px solid lighten($neutral, 20%); 
+  outline: none;
+  text-decoration: none;
+}
+
+
+.newsletter-btn:active {
+  color: #fff;
+  background-color: lighten($neutral, 20%);
+  border-bottom: 2px solid lighten($neutral, 30%);
+  margin-top: 2px;
+}
+
 
 .board {
   display: flex;
