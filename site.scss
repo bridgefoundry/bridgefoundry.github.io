@@ -224,8 +224,9 @@ footer {
 
 .newsletter-btn:hover, .newsletter-bin:visited {
   color: #fff;
-  background-color: lighten($neutral, 10%);
-  border-bottom: 2px solid lighten($neutral, 20%); 
+  background-color:  darken($neutral, 20%);
+  border-top: 2px solid darken($neutral, 50%); 
+  border-bottom: 2px solid $neutral; 
   outline: none;
   text-decoration: none;
 }
