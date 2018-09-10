@@ -37,7 +37,6 @@ operate with full transparency, please take a look:
         <a name="board"></a>
         <h2>Board of Directors</h2>
         <p>Ilen Zazueta-Hall, Chair</p>
-        <p>Karen Herreid, Treasurer</p>
         <p>Isa Herico, Secretary</p>
         <p>Sarah Allen</p>
 
