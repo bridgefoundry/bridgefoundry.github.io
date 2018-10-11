@@ -75,10 +75,18 @@ operate with full transparency, please take a look:
       <a name="sponsors"></a>
       <div class="inner-contents">
         <h2>Sponsors</h2>
-        <p class="board__info--sponsor-logo"> <a href="https://balsamiq.com/"><img src="/images/balsamiq-logo.png" width="200px"/></a></p>
-        <p class="board__info--sponsor-logo"><a href="https://www.google.com/"><img src="/images/google-logo.png" width="200px"/></a></p>
-        <p class="board__info--sponsor-logo"><a href="https://dnsimple.com/"><img src="/images/dnsimple-logo.png" width="200px"/></a></p>
-        <p class="board__info--sponsor-logo"><a href="https://www.heroku.com/"><img src="/images/heroku-logo.jpg" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://balsamiq.com/"><img src="/images/sponsor/balsamiq.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.linode.com/"><img src="/images/sponsor/linode.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.autodesk.com/"><img src="/images/sponsor/autodesk.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.lightbend.com/"><img src="/images/sponsor/lightbend.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.stitchfix.com/"><img src="/images/sponsor/stitchfix.jpg" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.stridenyc.com/"><img src="/images/sponsor/stride-nyc-consulting.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.thoughtbot.com/"><img src="/images/sponsor/thoughtbot.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://foundation.travis-ci.org/"><img src="/images/sponsor/travis-foundation.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://www.twilio.com/"><img src="/images/sponsor/twilio.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"><a href="https://www.google.com/"><img src="/images/sponsor/google.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"><a href="https://dnsimple.com/"><img src="/images/sponsor/dnsimple.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"><a href="https://www.heroku.com/"><img src="/images/sponsor/heroku.jpg" width="200px"/></a></p>
 
       <p>Please see the <a href="http://www.railsbridge.org/about/sponsors">RailsBridge site</a> for workshop sponsors.</p>
       </div>
