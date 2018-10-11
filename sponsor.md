@@ -31,7 +31,7 @@ title: Become a Sponsor
     
 }
 
-.sponsor { font-size: 24px; }
+.sponsor { font-size: 22px; }
 
 .sponsoramt { font-size: 30px; }
 
@@ -41,7 +41,7 @@ title: Become a Sponsor
 </style>
 
 
-Your tax-deductible sponsorship enables Bridge Foundry to sustain the programs that enable thousands of volunteers across the world to teach workshops and provide resource to women and others who are underserved in access to technology and tech skills.
+Your tax-deductible sponsorship enables Bridge Foundry to sustain the programs that enable thousands of volunteers across the world to teach workshops and provide resources to women and others who are underserved in access to technology and tech skills.
 
 None of our sponsorship levels suit your needs? We appreciate all donations. <a href="/donate.html">Please contribute what you can!</a>
 
@@ -66,13 +66,16 @@ This level of funding allow us to hire long-term staff to conduct deep research 
 With this amount, we can pay someone to connect our sponsors with volunteers in their communities to host workshops. 
   </div> 
   <div class="column">
-  <p class="sponsor">  Startup, Team or Individual </p>
+  <p class="sponsor">  Startup, Individual or Team </p>
 <p class="sponsoramt">$50/month</p>
 <p class ="sponsoramtdetail">(monthly for 3 years or $3,000 donation for a single year)</p>
 <p>Just starting out? We want to help you build a culture of inclusion and respect from the beginning. </p>
 <p>Your donation helps us keep tools &amp; resource pages updated. </p>
   </div>
 </div>
+
+
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -115,20 +118,6 @@ With this amount, we can pay someone to connect our sponsors with volunteers in 
     <option value="Green" id="mce-SPONSORLEV-2">Green</option>
     <option value="Startup" id="mce-SPONSORLEV-3">Startup, Individual or Team</option>
     </select>
-    
-<!--    
-    <ul><li><input type="radio" value="Gold" name="SPONSORLEV" id="mce-SPONSORLEV-0"><label for="mce-SPONSORLEV-0">Gold</label></li>
-<li><input type="radio" value="Silver" name="SPONSORLEV" id="mce-SPONSORLEV-1"><label for="mce-SPONSORLEV-1">Silver</label></li>
-<li><input type="radio" value="Green" name="SPONSORLEV" id="mce-SPONSORLEV-2"><label for="mce-SPONSORLEV-2">Green</label></li>
-<li><input type="radio" value="Startup, Individual or Team" name="SPONSORLEV" id="mce-SPONSORLEV-3"><label for="mce-SPONSORLEV-3">Startup, Individual or Team</label></li>
-</ul>
--->
-</div>
-<div class="mc-field-group input-group">
-    <strong>Preferred Payment Type </strong>
-    <ul><li><input type="radio" value="Paypal" name="SPONSORPAY" id="mce-SPONSORPAY-0"><label for="mce-SPONSORPAY-0">Paypal</label></li>
-<li><input type="radio" value="Invoice" name="SPONSORPAY" id="mce-SPONSORPAY-1"><label for="mce-SPONSORPAY-1">Invoice</label></li>
-</ul>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
