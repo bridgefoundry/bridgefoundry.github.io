@@ -11,7 +11,7 @@ Our sponsors fund the research to isolate specific techniques that are most effe
 <!--more-->
 
 1. [Industry Partner](/partner):  Join a network of other companies and individuals that are actively working to make the software industry a better place.
-2. [Sustaining Sponsor](/sponsor): Make an ongoing commitment to funding our work, enabling us to accelerate the page of change
+2. [Sustaining Sponsor](/sponsor): Make an ongoing commitment to funding our work, enabling us to accelerate the pace of change
 
 In our workshops we see inclusivity and a gathering of many to accomplish a goal: to share technical knowledge.  From our workshops, we have unique visibility into what seems to work.  We would like to share our findings widely; however, we know that well-intentioned programs can still be [ineffective](https://www.ncbi.nlm.nih.gov/pubmed/25314368), have [negative effects](https://journals.aom.org/doi/abs/10.5465/amj.2014.0538), or generate [backlash](https://www.strategy-business.com/blog/Is-Your-Companys-Diversity-Training-Making-You-More-Biased?gko=72ffc).  So first, we must learn why our workshops and processes are working as well as they have been.
 
