@@ -116,7 +116,7 @@ With this amount, we can pay someone to connect our sponsors with volunteers in 
     <option value="Gold" id="mce-SPONSORLEV-0">Gold</option>
     <option value="Silver" id="mce-SPONSORLEV-1">Silver</option>
     <option value="Green" id="mce-SPONSORLEV-2">Green</option>
-    <option value="Startup" id="mce-SPONSORLEV-3">Startup, Individual or Team</option>
+    <option value="Startup, Individual or Team" id="mce-SPONSORLEV-3">Startup, Individual or Team</option>
     </select>
 </div>
 	<div id="mce-responses" class="clear">
