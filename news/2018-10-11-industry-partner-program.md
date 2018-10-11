@@ -5,11 +5,11 @@ title: Bridge Foundry announces partner program to close diversity & inclusion g
 
 *As the tech industry takes a hard look at its culture of systemic bias and sexual harassment, leading companies make a commitment to changing it.*
 
-Bridge Foundry today announced the official launch of its Industry Partner Program, based on a successful track record of increasing diversity in tech communities through its innovative training programs. The Industry Partner Program will enable research into successful diversity and inclusion initiatives.
+[Bridge Foundry](https://bridgefoundry.org/) today announced the official launch of its [Industry Partner Program](https://bridgefoundry.org/partner), based on a successful track record of increasing diversity in tech communities through its innovative training programs. The Industry Partner Program will enable research into successful diversity and inclusion initiatives.
 
 In order to be successful, tech companies need to create environments where their engineers can succeed. Too often those environments only work for some people. Bridge Foundry trains experienced software developers in the skills needed to create a respectful working environment for all of us.
 
-Tech companies which host workshops and include staff participation are creating a significant shift in culture with lasting effects.  Bridge Foundry’s 2018 sponsors with a track record of supporting this work include Autodesk, Balsamiq, Carbon Five, Lightbend, Linode, StitchFix, Stride, Thoughtbot, Travis, and Twilio.
+Tech companies which host workshops and include staff participation are creating a significant shift in culture with lasting effects.  Bridge Foundry’s 2018 sponsors with a track record of supporting this work include [Autodesk](https://www.autodesk.com/), [Balsamiq](https://balsamiq.com/), [Carbon Five](https://www.carbonfive.com/), [Lightbend](https://www.lightbend.com/), [Linode](https://www.linode.com/), [StitchFix](https://www.stitchfix.com/), [Stride](https://www.stridenyc.com/), [Thoughtbot](https://thoughtbot.com/), [Travis](https://foundation.travis-ci.org/), and [Twilio](https://www.twilio.com/).
 
 What is unique about the Bridge workshops are the influence they have on the software developers who teach as well as the students who learn.  Participant engineers learn how to build inclusive work environments that work for all people.  Workshops offer training in specific technologies, with outreach to individuals who are underrepresented in tech.
 
