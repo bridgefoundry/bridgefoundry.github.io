@@ -1,20 +1,27 @@
 ---
 ---
 
-// $dark: #221F5E;
-$dark: #21202A;
-$dark2: #2e258a;
-$primary: #3AAD5D;
-$light: #FAFAFA;
-$light2: #84A5AE;
-
 $light-text: #DDDDEE;
-$ruby-dark: #e64024;
-$ruby-light: #EB6852;
-$elixir-dark: #634580;
 
-$neutral: #84A5AE;
+$bf-dark: #3C6304;
+$bf-medium: #558A06;
+$bf-light: #72A813;
 
+$ruby-dark: #D04041;
+$ruby-medium: #F7605C;
+$ruby-light: #F77774;
+
+$elixir-dark: #372949;
+$elixir-medium: #564072;
+$elixir-light: #8D74B5;
+
+$primary-teal-dark: #001D1E;
+$primary-teal-dark-1: #003333;
+$primary-teal-medium: #34807E;
+$primary-teal-medium-1: #44A8A3;
+$primary-teal-light: #30C1B0;
+
+$white: #FFFFFF;
 // FAFAFA - light
 // 84A5AE - light accent
 // 3AAD5D - main
@@ -22,25 +29,37 @@ $neutral: #84A5AE;
 // 21202A - dark shade
 
 html {
-  background-color: $light;
+  background-color: $light-text;
 }
 
 body {
   padding-top: 50px;
-  background-color: $light;
-  color: $dark;
+  color: $elixir-dark;
   font-family: 'Alegreya', serif;
   font-size: 18px;
 }
 
 h1, h2, h3, h4 {
-  color: $dark2;
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: normal;
+  color: $elixir-medium;
 }
 
 h2 {
   font-size: 24px;
+  color: $bf-medium;
+}
+
+p {
+  color: $primary-teal-dark-1;
+}
+
+a {
+  color: $bf-medium;
+}
+
+a:hover {
+  color: $ruby-light;
 }
 
 .row img {
@@ -57,24 +76,26 @@ h2 {
 .navbar-default {
   background: #fff;
   .navbar-brand {
-    color: $dark2;
     font-family: 'Alegreya Sans', sans-serif;
     font-weight: bold;
     font-size: 26px;
+    padding: 22px;
+    color: $elixir-medium;
   }
 }
 
 .navbar .nav {
   li>a {
-    color: $dark2;
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 18px;
+    padding: 22px;
+    color: $elixir-medium;
   }
 }
 
 footer {
   padding: 20px 0px;
-  background-color: $dark;
+  background-color: $elixir-dark;
   color: $light-text;
   h3, h4 {
     color: $light-text;
@@ -84,12 +105,15 @@ footer {
     color: $light-text;
   }
   a:hover {
-    color: $light2;
+    color: $primary-teal-medium-1;
     text-decoration: none;
   }
   ul {
     list-style-type: none;
     padding-left: 0px;
+  }
+  p {
+    color: $light-text;
   }
 }
 
@@ -103,29 +127,45 @@ footer {
   width: 100%;
   height: auto;
   position: absolute;
-  color: $light;
   font-size: 32px;
   padding: 20px 50px;
   p {
+    color: $light-text;
     font-family: 'Alegreya Sans', sans-serif;
   }
 }
 
 .banner {
   margin: 40px 0px;
-  color: $light;
+  color: $primary-teal-light;
   padding: 120px;
-  &.purple {
-    background: $elixir-dark;
+  &.bf-purple {
+    background-image: url('/images/purple-background-with-logo-shadow-bottom.png');
+    background-repeat: no-repeat;
+    background-color: $elixir-medium;
+    background-position: right;
+    p {
+      color: $white;
+      min-width: 250px;
+    }
   }
-  &.ruby {
-    background: $ruby-light;
+  &.bf-ruby {
+    background-image: url('/images/red-background-with-logo-shadow-bottom.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: $ruby-medium;
+    min-width: 300px;
+    width: 100%;
+    p {
+      color: $white;
+      min-width: 260px;
+    }
   }
   &.accent {
-    background: $light2;
+    background: $primary-teal-medium-1;
   }
   h2 {
-    color: $light;
+    color: $primary-teal-light;
   }
   p {
     font-size: 24px;
@@ -137,8 +177,8 @@ footer {
 }
 
 .quote {
-  background: $light2;
-  color: $light;
+  background: $light-text;
+  color: $primary-teal-light;
   font-size: 24px;
   font-family: 'Alegreya', serif;
   text-align: center;
@@ -162,24 +202,27 @@ footer {
 
 #bridgefoundry-logo {
   float: left;
-  width: 100px;
-  margin-right: 10px;
+  width: 45px;
+  margin: 10px;
 }
 
 .bridgefoundry-advisors-imgs {
   margin: 0 auto 5px 5px;border: 2px solid #ccc;width: 150px;height: 150px;float: right;
 }
 
-
+.large-text {
+  font-size: 40px;
+}
 
 /* Donate button */
 .donate-area {
   height: 60px;
 }
+
 .donate-btn {
   margin: 4px;
   color: #fff;
-  background-color: #db5566;
+  background-color: $ruby-dark;
   border-bottom:2px solid #af4451;
   padding: 10px;
   padding-left: 20px;
@@ -213,8 +256,8 @@ footer {
 .btn {
   margin: 4px;
   color: #fff;
-  background-color: $neutral;
-  border-bottom:2px solid darken($neutral, 40%);
+  background-color: $primary-teal-medium-1;
+  border-bottom:2px solid darken($primary-teal-medium-1, 40%);
   padding: 10px;
   padding-left: 20px;
   padding-right: 20px;
@@ -225,8 +268,8 @@ footer {
 .newsletter-btn {
   margin: 4px;
   color: #fff;
-  background-color: $neutral;
-  border-bottom:2px solid darken($neutral, 40%);
+  background-color: $primary-teal-medium;
+  border-bottom:2px solid darken($primary-teal-medium-1, 40%);
   padding: 10px;
   padding-left: 20px;
   padding-right: 20px;
@@ -237,9 +280,9 @@ footer {
 
 .newsletter-btn:hover, .newsletter-bin:visited {
   color: #fff;
-  background-color:  darken($neutral, 20%);
-  border-top: 2px solid darken($neutral, 50%);
-  border-bottom: 2px solid $neutral;
+  background-color:  darken($primary-teal-medium-1, 20%);
+  border-top: 2px solid darken($primary-teal-medium-1, 50%);
+  border-bottom: 2px solid $primary-teal-medium-1;
   outline: none;
   text-decoration: none;
 }
@@ -247,8 +290,8 @@ footer {
 
 .newsletter-btn:active {
   color: #fff;
-  background-color: lighten($neutral, 20%);
-  border-bottom: 2px solid lighten($neutral, 30%);
+  background-color: lighten($primary-teal-medium-1, 20%);
+  border-bottom: 2px solid lighten($primary-teal-medium-1, 30%);
   margin-top: 2px;
 }
 

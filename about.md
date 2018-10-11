@@ -82,7 +82,7 @@ operate with full transparency, please take a look:
         <p class="board__info--sponsor"> <a href="https://www.stitchfix.com/"><img src="/images/sponsor/stitchfix.jpg" width="200px"/></a></p>
         <p class="board__info--sponsor"> <a href="https://www.stridenyc.com/"><img src="/images/sponsor/stride-nyc-consulting.png" width="200px"/></a></p>
         <p class="board__info--sponsor"> <a href="https://www.thoughtbot.com/"><img src="/images/sponsor/thoughtbot.png" width="200px"/></a></p>
-        <p class="board__info--sponsor"> <a href="https://foundation.travis-ci.org/"><img src="/images/sponsor/travis-foundation.png" width="200px"/></a></p>
+        <p class="board__info--sponsor"> <a href="https://travis-ci.org/"><img src="/images/sponsor/travis_ci.png" width="200px"/></a></p>
         <p class="board__info--sponsor"> <a href="https://www.twilio.com/"><img src="/images/sponsor/twilio.png" width="200px"/></a></p>
         <p class="board__info--sponsor"><a href="https://www.google.com/"><img src="/images/sponsor/google.png" width="200px"/></a></p>
         <p class="board__info--sponsor"><a href="https://dnsimple.com/"><img src="/images/sponsor/dnsimple.png" width="200px"/></a></p>
