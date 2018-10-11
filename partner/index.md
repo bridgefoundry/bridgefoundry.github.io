@@ -14,7 +14,13 @@ As an early adopter, you will have the opportunity to help define the program to
 
 You will join a network of other companies that are actively working to make the software industry a better place.
 
-<a href="signup.md" class="newsletter-btn">Start the Conversation</a>
+<p>
+<div>
+<a href="signup" class="btn">Start the Conversation</a>
+</div>
+</p>
+
+<p>&nbsp;</p>
 
 ## How This Works
 
@@ -34,8 +40,12 @@ with experienced research professionals.
 We believe our techniques will work at scale and the research will validate
 that others can replicate this approach and achieve the intended effects.
 
-<a href="/sponsor" class="newsletter-btn">Support our Work</a>
+<a href="/sponsor" class="btn">Support our Work</a>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
