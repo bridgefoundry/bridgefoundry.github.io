@@ -209,6 +209,19 @@ footer {
 .newsletter-area {
   height: 60px;
 }
+
+.btn {
+  margin: 4px;
+  color: #fff;
+  background-color: $neutral;
+  border-bottom:2px solid darken($neutral, 40%);
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  text-decoration:none;
+}
+
 .newsletter-btn {
   margin: 4px;
   color: #fff;
@@ -225,8 +238,8 @@ footer {
 .newsletter-btn:hover, .newsletter-bin:visited {
   color: #fff;
   background-color:  darken($neutral, 20%);
-  border-top: 2px solid darken($neutral, 50%); 
-  border-bottom: 2px solid $neutral; 
+  border-top: 2px solid darken($neutral, 50%);
+  border-bottom: 2px solid $neutral;
   outline: none;
   text-decoration: none;
 }

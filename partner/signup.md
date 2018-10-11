@@ -1,20 +1,10 @@
 ---
 layout: post
-title: Bridge Foundry Industry Partner Program
+title: Bridge Foundry Industry Partner Sign-Up
 ---
 
-Bridge Foundry and tech companies have a shared goal to create workplaces where everyone can thrive, each person achieving their potential to create software for the business.
-
-Bridge Foundry is seeking companies that are committed to diversity and inclusion.  Working with you, we can define clear steps to create effective, diverse, and inclusive working environments that will scale across the tech industry.
-
-Are you in a leadership role or have clear support from leadership to make this happen?
-Do you want to increase diversity on your team and aren’t sure how to start? 
-
-As an early adopter, you will have the opportunity to help define the program to meet your needs and pay it forward to help other companies in the future.  
-
-You will join a network of other companies that are actively working to make the software industry a better place.
-
-
+Join us now and get started on the path to building more diverse, inclusive
+and effective teams and making the software industry a better place for everyone.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
