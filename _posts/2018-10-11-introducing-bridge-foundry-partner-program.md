@@ -5,7 +5,7 @@ tags: ready
 ---
 The tech industry has a serious diversity problem. In addition to well-documented pipeline problems, there exists a lack of good jobs with opportunity for advancement based on actual skill and capabilities.
 
-Bridge Foundry today [announced](/partner) the official launch of its Industry Partner Program. Tech companies want to do better, but lack effective techniques. Bridge Foundry has a [track record](http://www.sarahmei.com/blog/2010/02/20/scale-8x-slides-posted/) of increasing diversity in tech communities and we see an opportunity to address issues directly at the source.
+Bridge Foundry today [announced](/news/2018-10-11-industry-partner-program.html) the official launch of its Industry Partner Program. Tech companies want to do better, but lack effective techniques. Bridge Foundry has a [track record](http://www.sarahmei.com/blog/2010/02/20/scale-8x-slides-posted/) of increasing diversity in tech communities and we see an opportunity to address issues directly at the source.
 
 Our sponsors fund the research to isolate specific techniques that are most effective for both non-profit and corporate settings. This research will be critical to accelerate the work, yet we also need real-world data to focus our research on the most urgent needs.
 <!--more-->
