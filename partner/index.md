@@ -16,7 +16,7 @@ You will join a network of other companies that are actively working to make the
 
 <p>
 <div>
-<a href="signup" class="btn">Start the Conversation</a>
+<a href="/partner/signup" class="btn">Start the Conversation</a>
 </div>
 </p>
 
