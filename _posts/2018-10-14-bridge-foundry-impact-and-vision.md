@@ -17,17 +17,40 @@ In 2009-2013, the RailsBridge workshops went viral, with the
 number of workshops doubling year-over-year and sparked the creation of many
 other initiatives.
 
-<a href="{{ site.github.url }}/assets/railsbridge-viral-growth.png"><img src="{{ site.github.url }}/assets/railsbridge-viral-growth.png" alt="graph doubling each year 2009-2013, with annotations 2009: RailsBridge first workshop, 2010: Rails Girls, 2011: PyStar, OpenHatch, PyLadies, Women Who Code2013: PHPBridge, Scala Outreach workshop, Boston Python Workshops, 2012: Dev Bootcamp founded, 2013: Confident Coding JS" width="100%"/></a>
+<a href="{{ site.github.url }}/assets/railsbridge-viral-growth.png"><img src="{{ site.github.url }}/assets/railsbridge-viral-growth.png" alt="graph doubling each year 2009-2013, with annotations 2009: RailsBridge first workshop, 2010: Rails Girls, 2011: PyStar, OpenHatch, PyLadies, Women Who Code2013: PHPBridge, Scala Outreach workshop, Boston Python Workshops, 2012: Dev Bootcamp founded, 2013: Confident Coding JS"/></a>
 
 Sarah highlighted how the grassroots organization grew organically and with
 intention, across many programming languages and frameworks. Each technology and
 each community is led by volunteers who believe this work is important enough
 to take time away from their busy lives to do the work.
 
-<a href="{{ site.github.url }}/assets/2018-10-12-timeline.png"><img src="{{ site.github.url }}/assets/2018-10-12-timeline.png" alt="timeline " width="100%"/></a>
+<a href="{{ site.github.url }}/assets/2018-10-12-timeline.png"><img src="{{ site.github.url }}/assets/2018-10-12-timeline.png" alt='timeline: 2009 RailsBridge Creation with 8 projects, 2010 RailsBridge board, 2012 JavaScript/CSS workshop, 2013 Bridge Foundry 501c3 via School Factory, ClojureBridge, 2014 MobileBridge, 2015 GoBridge, 2016 Code of Conduct Escalation Training, RustBridge, ElmBridge, ElixirBridge, ScalaBridge, 2017 Volunteer Training "Difficult Conversations", 501c3, 2018 Sustainable Model' /></a>
 
-## Sharing from Sponsors
+## Stories of impact
 
+Bridge Foundry sponsors do more than financial support -- each company
+participates the work of creating culture change in the tech industry. A panel
+from 2018 sustaining sponsors and long-time supporters shared stories of how
+their work and company culture reflects our shared values and how working with
+Bridge Foundry programs and volunteers has created impact.
+
+Kelley Robinson from [Twillio](https://www.twilio.com) talked about their
+support of [ScalaBridge](http://www.scalabridge.org/), which
+grew out of a need to connect with the growing community of Scala developers.
+As a Developer Advocate, Kelley hosts workshops at the company, continuing
+a long tradition of Twillio employees who have volunteered to teach new
+languages to old and new coders.
+
+Valerie Liberty from [Balsamiq](https://balsamiq.com/) highlighted how their
+goal is to make UI design more inclusive and hightlights of [early support](https://blog.balsamiq.com/bridge-foundry/), as well as unexpected learning
+about accessibility and considering diversity in customer outreach, not just
+when thinking about in hiring.
+
+Anna Neyzberg from [Carbon Five](https://www.carbonfive.com/), who has also
+served on the [RailsBridge](http://railsbridge.org) board
+and founded [ElixirBridge](http://elixirbridge.org/), shared how hosting
+workshops and events has created an influx of talent and their diverse teams
+comnnect more effectively with a wide range of customers.
 
 
 ## Vision: a future where diversity is normal
@@ -40,4 +63,20 @@ for people underrepresented in tech. We need to eliminate disrespectful work
 environments.
 
 An interactive session modeled on Bridge Foundry’s new curriculum, which trains
-volunteers how to handle difficult conversations when needed.
+volunteers how to speak up and have "difficult conversations" as needed.  It is
+risky to speak up when you don't know what today, yet silence conveys approval
+and saying something is usually better than saying nothing. Practicing how to
+respond to racist, sexist or plain old disrespectful comments makes it easier
+to respond appropriately when we hear something innappropriate in real life.
+
+[!four people sitting and talking]({{ site.github.url }}/images/blog/2018-10-14/group-discussion.png)
+
+Audience members participated in small group discussions grappling with a less
+challenging version of the curriculum on how to respond to "awkward
+situtations," which in retrospect is perhaps even more important. If we can
+learn to speak up when witnessing disrespectful behavior that is in that space
+of plausible deniability or where someone honestly had no idea of how
+innapropriate their statement was, then we can create spaces where really bad
+behavior is inconceivable.
+
+
