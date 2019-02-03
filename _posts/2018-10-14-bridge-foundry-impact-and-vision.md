@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bridge Foundry impact & vision event
+tags: ready
 ---
 
 Bridge Foundry's CEO, Sarah Allen, shared the organization's 2017 diversity
@@ -70,8 +71,6 @@ and saying something is usually better than saying nothing. Practicing how to
 respond to racist, sexist or plain old disrespectful comments makes it easier
 to respond appropriately when we hear something innappropriate in real life.
 
-[!four people sitting and talking]({{ site.github.url }}/images/blog/2018-10-14/group-discussion.png)
-
 Audience members participated in small group discussions grappling with a less
 challenging version of the curriculum on how to respond to "awkward
 situtations," which in retrospect is perhaps even more important. If we can
@@ -79,5 +78,9 @@ learn to speak up when witnessing disrespectful behavior that is in that space
 of plausible deniability or where someone honestly had no idea of how
 innapropriate their statement was, then we can create spaces where really bad
 behavior is inconceivable.
+
+<a href="{{ site.github.url }}/images/blog/2018-10-14/group-discussion.png"><img src="{{ site.github.url }}/images/blog/2018-10-14/group-discussion.png" alt="four people sitting and talking" width="100%"/></a>
+
+
 
 
