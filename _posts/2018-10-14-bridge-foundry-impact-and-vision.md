@@ -4,6 +4,10 @@ title: Bridge Foundry impact & vision event
 tags: ready
 ---
 
+On October 11, 2018, community and tech leaders gathered at the Kapor Center
+in Oakland, CA to hear about Bridge Foundry's impact and vision for the future,
+including the announcement of the new [industry outreach program](https://bridgefoundry.org/news/2018-10-11-industry-partner-program).
+
 Bridge Foundry's CEO, Sarah Allen, shared the organization's 2017 diversity
 impact results and successes teaching code skills to people underserved in the
 tech industry. Starting with the organization's history and growth, she was
