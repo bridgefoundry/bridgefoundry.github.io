@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bridge Foundry impact & vision event
-tags: draft
 ---
 
 Bridge Foundry's CEO, Sarah Allen, shared the organization's 2017 diversity
@@ -34,24 +33,26 @@ from 2018 sustaining sponsors and long-time supporters shared stories of how
 their work and company culture reflects our shared values and how working with
 Bridge Foundry programs and volunteers has created impact.
 
+Valerie Liberty from  [Balsamiq](https://balsamiq.com/) cited the company’s 10+
+year friendship with Bridge Foundry, recalling
+[early support](https://blog.balsamiq.com/bridge-foundry/). Enlightened
+communication and respectful work practices foster accessibility and diversity,
+not just in hiring practices but also in customer success.
+
+Anna Neyzberg from [Carbon Five](https://www.carbonfive.com/), who has also
+served on the [RailsBridge](http://railsbridge.org) board
+and founded [ElixirBridge](http://elixirbridge.org/), shared how hosting
+workshops and events has helped Carbon Five stay connected to the larger tech
+community. Helping underrepresented folks level up so that they can find work in
+tech aligns strongly with Carbon Five's belief that diverse teams work more
+effectively and can more effectively collaborate with a wide range of clients.
+
 Kelley Robinson from [Twillio](https://www.twilio.com) talked about their
 support of [ScalaBridge](http://www.scalabridge.org/), which
 grew out of a need to connect with the growing community of Scala developers.
 As a Developer Advocate, Kelley hosts workshops at the company, continuing
 a long tradition of Twillio employees who have volunteered to teach new
 languages to old and new coders.
-
-Valerie Liberty from [Balsamiq](https://balsamiq.com/) highlighted how their
-goal is to make UI design more inclusive and hightlights of [early support](https://blog.balsamiq.com/bridge-foundry/), as well as unexpected learning
-about accessibility and considering diversity in customer outreach, not just
-when thinking about in hiring.
-
-Anna Neyzberg from [Carbon Five](https://www.carbonfive.com/), who has also
-served on the [RailsBridge](http://railsbridge.org) board
-and founded [ElixirBridge](http://elixirbridge.org/), shared how hosting
-workshops and events has created an influx of talent and their diverse teams
-comnnect more effectively with a wide range of customers.
-
 
 ## Vision: a future where diversity is normal
 
