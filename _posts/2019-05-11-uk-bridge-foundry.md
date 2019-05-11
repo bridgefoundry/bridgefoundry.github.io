@@ -1,22 +1,25 @@
 ---
 layout: post
-title: UK Bridge Foundry
-tags: draft
+title: Bridge Foundry in the UK
+tags: ready
 ---
+<img src="{{ site.github.url }}/images/blog/2019-05-11-uk-bridge-foundry/uk_outline.svg" height="300" style="float:right" />
+We're kicking off a project to figure out what it will take to create a
+non-profit organization in the UK to support the work of the volunteers who
+have been organizing events and teaching Ruby, Clojure, Go, Scala and Haskell!
+Across the UK, volunteers  have hosted workshops and meetup events using our
+open source materials and have contributed new curriculum, along with building
+diverse communities.
+
 We're an agile, grassroots movement, which doesn't strictly require corporate
-structure, but we find that having a formal organization creates resiliency
+structure, yet an organization creates resiliency
 and accelerates the work. We stepped up to the challenge of creating a structure
 that supports innovation at all levels of our volunteer-led organzation.
-One of our challenges is that most of the volundders have greater affinity to
-a specific programming language or framework than to a particular country.
-Of course, laws are different in different regions. It's not just about the
-money things, it's about the change we are making in the world which is
-sometimes, but not always, well supported by laws.
-
-We're starting to research what it will take to create a non-profit
-organization in the UK. There are multiple UK communities who have hosted
-many workshops and meetup events using our open source materials or simply
-aligned with and encouraged by similar efforts all over the world.
+A key part of this challenge is that most of the volunteers have greater
+affinity to a specific programming language or framework than to a particular
+country. Of course, laws are different in different regions. It's not just about
+finances which most people think of first, the changes that we seek to
+enable access to technology for all people can have unexpected legal implications.
 <!--more-->
 
 Bridge Foundry started with a simple hypothesis that a local in-person workshop to teach other women Ruby would cause more women to want to code in Ruby.  In less than 6 months, the San Francisco Ruby meetup went from 2% to 18% women, and even before that, the agile, open source approach spread across the US… across languages, hosted by many different companies and organizations.
