@@ -30,4 +30,12 @@ Along the way, we ran into legal questions and pro-bono lawyers helped us explai
 
 Even though a San Francisco RailsBridge workshop is more like a Brighton RailsBridge than a San Francisco Women Who Go meetup, from a legal perspective Brighton and San Francisco are completely different.  Each country (and even US states) have quite different legal frameworks.  Since London was an active hub with multiple different bridge communities, and there were local volunteers willing to take point with the legal team, we decided that we would invest in figuring out how to make a UK-based non-profit (and from that, perhaps a generalized country kit to help volunteers across the world).
 
-This is no small challenge, yet we have a good track record on starting small and iterating to reach a big goal.  In addition to being able to raise funds that are tax deductible, process expense reports and all the money things, there are more complex questions are around the legal support for our code of conduct -- the UK is likely to have similar, yet different protections for our work. In the longer term, we need to consider how we would support volunteers where there aren’t legal protections for the basic human right than anyone should have equal access to technology, be treated with respect, and the opportunity to  learn to code.
+This is no small challenge, yet we have a good track record on starting small
+and iterating to reach a big goal.  In addition to being able to raise funds
+that are tax deductible, process expense reports and all the money things,
+there are more complex questions are around the legal support for our
+[code of conduct](http://bridgefoundry.org/code-of-conduct) -- the UK is likely
+to have similar, yet different protections for our work. In the longer term,
+we need to consider how we would support volunteers where there aren’t legal
+protections for the basic human right that anyone should have equal access
+to technology, be treated with respect, and the opportunity to learn to code.
