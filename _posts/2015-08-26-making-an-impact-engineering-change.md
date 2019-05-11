@@ -8,6 +8,7 @@ The Bridge Foundry community is filled with passionate change agents.
 
 Not too long from when Sarah Allen and I met, she told me the story of [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup).  In this story, a group of people combine forces to make something happen in order to help themselves and each other.
 As one having organized ​some [​RailsBridge](http://railsbridge.org/) workshops, I can attest to the incredible forces that bring all of the volunteers together (teachers and assistants, organizers, donors, advocates) to make not only workshops happen but to keep the ​RailsBridge ​soup pot full.  ​Those that have donated their time and energy into any Bridge Foundry effort, let's call them *​\*Bridgers*,​​ ​keep connections ​and pipelines ​open​ to​ build and cultivate​ this network.
+<!--more-->
 
 Each *\*Bridge* contributor is doing what it takes to make computer language literacy more accessible.  RailsBridge contributor [Michelle Glauser](http://www.michelleglauser.com/) is one  of them.  From being a RailsBridge student to having moved forward into a career as a Full Stack Web Developer, Michelle is doing her part to put technology in front of as many faces as possible.
 

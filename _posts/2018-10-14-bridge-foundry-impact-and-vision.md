@@ -14,6 +14,7 @@ tech industry. Starting with the organization's history and growth, she was
 joined by sponsor representatives who shared their insights on this work and
 then moving on to describe the next steps in making diversity the norm in the
 tech industry.
+<!--more-->
 
 ## History of Rapid Growth
 
