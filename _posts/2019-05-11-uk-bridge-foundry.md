@@ -12,15 +12,17 @@ than a San Francisco Women Who Go meetup, from a legal perspective Brighton and
 San Francisco are completely different.
 <!--more-->
 
+## High impact events, viral growth
 Bridge Foundry started in 2009 with a simple hypothesis that a local in-person
 workshop to teach other women Ruby would cause more women to want to code in
 Ruby. In less than 6 months, the San Francisco Ruby meetup went from 2% to 18%
 women. The agile, open source approach spread across the US… across languages,
 hosted by many different companies and organizations. Now nearly a decade later
-there have been more than 500 events in 16 countries. Across the UK, volunteers
+there have been more than 500 events in 19 countries. Across the UK, volunteers
 have hosted workshops and meetup events using our open source materials and have
 contributed new curriculum, along with building diverse communities.
 
+## Why legal support is needed
 Even though the movement is bigger globally than in the United States, it was in
 the US that we were threatened multiple times with legal action, and US-based
 philanthropists who first asked for a tax deductible donation. In 2017, we
@@ -35,6 +37,7 @@ the legal team, we are now investing in figuring out how to make a UK-based
 non-profit -- and from there, a generalized country kit to help volunteers
 across the world.
 
+## A step towards a bigger goal
 Building resilient organizations is no small challenge, but we have a good track
 record on starting small and iterating to reach a big goal. In addition to being
 able to raise tax deductible funds, process expense reports and award grants,
