@@ -4,7 +4,7 @@ title: London Bridges
 tags: ready
 ---
 
-<img src="{{ site.github.url }}/images/blog/2019-06-21-london-bridges/london-bridges-paypal-pivotal-cncf.JPG" style="float:right; width:300px" />
+<img src="{{ site.github.url }}/images/blog/2019-06-21-london-bridges/london-bridges-paypal-pivotal-cncf.jpg" style="float:right; width:300px" />
 On May 28th, 2019, the London Bridges gathered for the first time across
 four different technical communities (Ruby, Clojure, Go and Scale), bringing
 together students, volunteers, teachers and organizers to celebrate how we
