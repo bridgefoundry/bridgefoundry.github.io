@@ -3,7 +3,7 @@ layout: post
 title: Bridge Foundry in the UK
 tags: ready
 ---
-<img src="{{ site.github.url }}/images/blog/2019-05-11-uk-bridge-foundry/uk_outline.svg" height="200" style="float:right" />
+<img src="{{ site.github.url }}/images/blog/2019-05-11-uk-bridge-foundry/uk_outline.svg" style="float:right; height:200px; width:auto" />
 We’re kicking off a project to figure out what it will take to create a
 non-profit organization in the UK to support the work of the volunteers who have
 been organizing events and teaching Ruby, Clojure, Go, Scala and Haskell! Even
