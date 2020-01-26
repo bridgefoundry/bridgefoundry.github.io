@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Call for Proposal: Measuring Impact!
-tags: draft
+tags: ready
 ---
 Call for Proposal: Measuring Impact!
 
