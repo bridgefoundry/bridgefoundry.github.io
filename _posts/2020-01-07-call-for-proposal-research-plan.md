@@ -29,7 +29,7 @@ roles.  Repeat participation also causes volunteers to bring positive change to
 their workplaces.  By gaining more insight into the space that we are creating
 through these workshops, we believe that we can hone our practices, improving
 the experience of working within our communities and increasing our positive
-impact on the world.We would like to hire an individual researcher or firm to
+impact on the world.   We would like to hire an individual researcher or firm to
 develop a research plan for 2020. In keeping with our practice of agile,
 iterative approaches, the project will include 2019 report using the data we
 have and collaborating with our volunteer leaders to develop recommendations for
