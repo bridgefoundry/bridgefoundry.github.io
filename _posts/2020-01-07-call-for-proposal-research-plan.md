@@ -16,7 +16,7 @@ This is a challenging feat and we are very proud of how each of us has played a
 small part in creating positive impact across the industry.  We want to continue
 facilitating workshops, writing, speaking, and making change until technology is
 equally available and accessible to everyone. We also want to dig deeper into
-why our model is successful and the impact it has on our communities, industry,
+why our model is successful and how it impacts our communities, industry,
 and beyond.
 
 Traditionally, we have reported data on the number of participants at events
@@ -52,4 +52,3 @@ appendix of data gathering activities, which would include:
 
 If you’re interested, please contact hello@bridgefoundry.org.  
 We look forward to meeting you.
-
