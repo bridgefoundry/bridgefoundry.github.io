@@ -3,7 +3,7 @@ node_js:
   - "node"
 
 install:
-  - rvm install 2.7
+  - rvm install 2.6.3
   - gem install bundler
   - bundle install
 
