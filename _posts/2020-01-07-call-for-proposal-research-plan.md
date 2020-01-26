@@ -42,7 +42,7 @@ is that report would include no more than 2-3 pages of narrative text, with an
 appendix of data gathering activities, which would include:
   * Reviewing current and past data (participation in workshops and other programs)
   * Interviewing board members and staff (5 people)
-  * Performing a qualitative assessment, such as a survey with follow-up interviews with participants *   (volunteer leaders, students, teachers, etc)
+  * Performing a qualitative assessment, such as a survey with follow-up interviews with participants (volunteer leaders, students, teachers, etc)
 2. Draft recommendations for 2020, including the following:
   * Evaluation and measurement of outcomes/impact
   * Map program activities to mission goals
