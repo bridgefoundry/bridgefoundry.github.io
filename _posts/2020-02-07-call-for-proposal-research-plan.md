@@ -45,12 +45,12 @@ appendix of data gathering activities, which would include:
   * Reviewing current and past data (participation in workshops and other programs)
   * Interviewing board members and staff (5 people)
   * Performing a qualitative assessment, such as a survey with follow-up interviews with participants (volunteer leaders, students, teachers, etc)
-2. Draft recommendations for 2020, including the following:
+2. Recommendations for 2020, including the following:
   * Evaluation and measurement of outcomes/impact
   * Map program activities to mission goals
   * Proposed metrics and measurement
   * Activities to engage with community to generate ideas and validate approach
-  * Plan for Q1 report with iterative approach to 2020 quarterly reports
+  * Plan for quarterly report with iterative approach to improvement
 
 If you’re interested, please contact hello@bridgefoundry.org.  
 We look forward to meeting you.
