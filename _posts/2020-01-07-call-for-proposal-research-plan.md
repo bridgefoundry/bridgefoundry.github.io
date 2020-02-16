@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Proposal: Measuring Impact!
+title: Call for Proposal on Measuring Impact!
 tags: ready
 ---
 Call for Proposal: Measuring Impact!
