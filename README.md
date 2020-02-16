@@ -26,10 +26,10 @@ tags: ready
 
 ## Local development
 
-install Ruby
+Install Ruby and then run:
 
 ```
-gem install bundler
+gem install bundler jekyll
 bundle
 ```
 
@@ -53,10 +53,10 @@ git submodule update --init --recursive
 ```
 
 
-to run the site:
+To run the site:
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 point your browser at: http://localhost:4000/
