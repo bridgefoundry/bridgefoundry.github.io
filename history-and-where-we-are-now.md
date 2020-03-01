@@ -35,6 +35,8 @@ We documented the <a href="http://railsbridge.org/help/organize" target="_blank"
     but one in San Francisco and one in New York City. In the subsequent years, the number of workshops has doubled every year, with workshops in 42 cities in 2013,
     with thriving communities across the globe.
 
+![illustration of timeline](/assets/timeline.png)
+
 We had decided early on that we would “let nothing get in the way of a workshop happening” when there are students who want to learn, teachers willing to teach,
     and someone willing to organize an event. Local companies offered us funding, space, food, etc. Often all that was needed was someone to connect the people with the resources
     to the people who wanted to make a workshop happen. Austin Putman volunteered to be treasurer, with much of his job simply paying $60 for a security guard or $250 for pizza,
@@ -56,5 +58,4 @@ In 2014, <a href="http://www.clojurebridge.org/" target="_blank">ClojureBridge</
     including three in Australia. MobileBridge started with an iOS workshop, held in San Francisco, followed by one in Hawaii, and more in San Francisco. The first Android workshop was held in August 2015.
     Also, in Summer 2015, <a href="http://golangbridge.org/" target="_blank">GoBridge</a> started with several workshops, an <a href="https://forum.golangbridge.org/" target="_blank">online forum</a>,
     and an <a href="https://medium.com/@GolangBridge/go-needs-everyone-s-help-13f74bdf3432#.zbhpmygqd" target="_blank">innovative partner program</a>.
-
 
