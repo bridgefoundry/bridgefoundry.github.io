@@ -36,9 +36,10 @@ operate with full transparency, please take a look:
       <div class="board__members">
         <a name="board"></a>
         <h2>Board of Directors</h2>
-        <p>Ilen Zazueta-Hall, Chair</p>
-        <p>Isa Herico, Secretary</p>
-        <p>Sarah Allen</p>
+        <p>Sarah Allen, Chair</p>
+        <p>Eggya Chiquita, Secretary</p>
+        <p>Melissa Xie, Treasurer</p>
+        <p>Isa Herico</p>
 
         <div class="board_staff">
           <a name="staff"></a>
@@ -56,6 +57,7 @@ operate with full transparency, please take a look:
 
         <h2>Past Board Members</h2>
         <a name="past-board-members"></a>
+        <p>Ilen Zazueta-Hall, Chair</p>
         <p>Layne McNish, Communications</p>
         <p>Sarah Mei, Board Member at Large</p>
         <p>Bridget Hillyer, ClojureBridge</p>
