@@ -37,23 +37,16 @@ operate with full transparency, please take a look:
         <a name="board"></a>
         <h2>Board of Directors</h2>
         <p>Sarah Allen, Chair</p>
-        <p>Eggya Chiquita, Secretary</p>
         <p>Melissa Xie, Treasurer</p>
-        <p>Isa Herico</p>
+        <p>Eggya Chiquita, Secretary</p>
+        <p>Isa Herico Velasco</p>
 
         <div class="board_staff">
           <a name="staff"></a>
           <h2>Staff Members</h2>
-          <p>Sarah Allen, CEO</p>
+          <p>Sarah Allen, CEO (on leave)</p>
           <p>Jéneen Perkins, <a href="https://consulteclat.com/">Eclat Enterprises, Finance Manager</a></p>
         </div>
-
-        <h2>Program Board</h2>
-        <a name="program-board"></a>
-        <p>Laura Kirby, Chair</p>
-        <p>Chris Koehnen, ClojureBridge</p>
-        <p>Anna Neyzberg, RailsBridge</p>
-        <p>Johnny Boursiquot, GoBridge</p>
 
         <h2>Past Board Members</h2>
         <a name="past-board-members"></a>
@@ -67,10 +60,11 @@ operate with full transparency, please take a look:
         <p>Kinsey Durham, Chair</p>
         <p>Marcy Campbell, Fundraising</p>
         <p>Bill Kennedy, GoBridge</p>
-
+        <p>Laura Kirby, Chair</p>
+        <p>Chris Koehnen, ClojureBridge</p>
+        <p>Anna Neyzberg, RailsBridge</p>
+        <p>Johnny Boursiquot, GoBridge</p>
       </div>
-
-
     </div>
 
     <div class="sponsors">
