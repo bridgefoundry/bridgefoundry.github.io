@@ -29,29 +29,18 @@ tags: ready
 Install Ruby and then run:
 
 ```
-gem install bundler jekyll
+gem install bundler
 bundle
 ```
 
-Note: the website integrates two other repos, which are integrated as submodules
-and then need to be built individually.  If you want to make changes to those,
-work directly in these separate repos
+Note: the website integrates two other repos, which are each GitHub Pages
+themselves. They're built individually and then automatically available under
+the same domain.
+
+If you want to make changes to those, work directly in these separate repos:
 
 * [code of conduct](https://github.com/bridgefoundry/code-of-conduct)
 * [workshop-map](https://github.com/bridgefoundry/workshop-map)
-
-The full website can be built by triggering a build on Travis, which anyone
-who is a member of the `bridgefoundry` organization on github should be able
-to do.
-
-To build locally:
-
-```
-git submodule update --init --recursive
-(cd code-of-conduct-src; bundle; bundle exec jekyll build --destination ../code-of-conduct)
-(cd workshop-map-src; bundle; bundle exec jekyll build --destination ../workshop-map)
-```
-
 
 To run the site:
 
@@ -64,15 +53,7 @@ point your browser at: http://localhost:4000/
 
 ## Deploying the site
 
-[![Build Status](https://travis-ci.org/bridgefoundry/bridgefoundry.github.io.svg?branch=master)](https://travis-ci.org/bridgefoundry/bridgefoundry.github.io)
+The website is automatically deployed upon changes merged to main. See [GitHub
+documentation][docs] for more information.
 
-The site is deployed with Firebase hosting and should automatically deploy
-whenever a change is checked into master.  If there are any issues, please
-send email to admin@bridgefoundry.org
-
-When we update the code-of-conduct or workshop-map, then we need to make some
-kind of change to this repo (such as this README) in order to trigger a new
-deploy.
-
-To test out changes, any commits to `staging` branch will be automatically
-deployed to https://bridgefoundry-staging.firebaseapp.com/
+[docs]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#building-your-site-locally
