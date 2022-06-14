@@ -2,7 +2,7 @@ Bridge Foundry Web Site
 =======================
 
 This site is build with [Jeykll](https://jekyllrb.com/) and hosted on
-[Github Pages](https://pages.github.com/) -- pushing the master branch will
+[GitHub Pages](https://pages.github.com/) -- pushing the main branch will
 update the website.
 
 
