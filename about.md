@@ -36,10 +36,10 @@ operate with full transparency, please take a look:
       <div class="board__members">
         <a name="board"></a>
         <h2>Board of Directors</h2>
-        <p>Sarah Allen, Chair</p>
+        <p>Desi McAdam, Chair</p>
         <p>Melissa Xie, Treasurer</p>
-        <p>Eggya Chiquita, Secretary</p>
-        <p>Isa Herico Velasco</p>
+        <p>Sarah Allen, Secretary</p>
+        <p>Isa Herico Velasco (On leave)</p>
 
         <div class="board_staff">
           <a name="staff"></a>
