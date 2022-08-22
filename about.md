@@ -50,6 +50,7 @@ operate with full transparency, please take a look:
 
         <h2>Past Board Members</h2>
         <a name="past-board-members"></a>
+        <p>Eggya Chiquita, Secretary</p>
         <p>Ilen Zazueta-Hall, Chair</p>
         <p>Layne McNish, Communications</p>
         <p>Sarah Mei, Board Member at Large</p>
