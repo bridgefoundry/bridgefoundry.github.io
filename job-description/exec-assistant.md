@@ -1,4 +1,9 @@
 
+---
+layout: post
+title: Bridge Foundry Executive Assistant
+---
+
 # Job Title: Part Time Executive Assistant to the CEO 
 
 Bridge Foundry, Inc. is seeking an Executive Assistant to the CEO (part-time). 
