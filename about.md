@@ -38,8 +38,8 @@ operate with full transparency, please take a look:
         <h2>Board of Directors</h2>
         <p>Desi McAdam, Chair</p>
         <p>Melissa Xie, Treasurer</p>
-        <p>Sarah Allen, Secretary</p>
-        <p>Isa Herico Velasco (On leave)</p>
+        <p>Kinsey Durham Grace, Secretary</p>
+        <p>Sarah Allen</p>
 
         <div class="board_staff">
           <a name="staff"></a>
@@ -50,6 +50,7 @@ operate with full transparency, please take a look:
 
         <h2>Past Board Members</h2>
         <a name="past-board-members"></a>
+        <p>Isa Herico Velasco, Secretary</p>
         <p>Eggya Chiquita, Secretary</p>
         <p>Ilen Zazueta-Hall, Chair</p>
         <p>Layne McNish, Communications</p>
