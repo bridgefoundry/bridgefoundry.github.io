@@ -27,7 +27,7 @@ We support many community based initiatives in the US and other
 countries through grants and open source curricula. We seek to
 operate with full transparency, please take a look:
 
-  * [Corporate Docs](https://operations.bridgefoundry.org/corporate-docs/README/), including EIN, by-laws, etc.
+  * [Corporate Docs](https://operations.bridgefoundry.org/corporate-docs), including EIN, by-laws, etc.
   * [Operations Guide](https://operations.bridgefoundry.org/) - internal policies, how we organize volunteers and spend money
 
 
