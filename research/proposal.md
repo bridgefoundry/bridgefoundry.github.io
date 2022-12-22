@@ -2,6 +2,8 @@
 
 Systemic bias is a widespread and still poorly understood problem in tech. Studies exist showing bias in engineering, yet many tech leaders who want to help still don't know exactly how to help. Bridge Foundry wants to commission a study which will more clearly underscore the issues of discrimination and outline concrete action items for tech leaders. We need your help to fundraise for it!
 
+## The Fundraiser
+
 Help us educate tech leaders! [Donations](https://secure.givelively.org/donate/bridge-foundry-inc/help-commission-a-study-on-bias-in-engineering) of any amount will help. 
 
 Please share with your colleagues, your bosses and your friends! 
@@ -23,7 +25,7 @@ Narratives will be selected from the interviews to help readers spot inappropria
 
 The report will include recommendations on what steps can be taken to tackle the problems illustrated.  We will also  validate to what extent the report meets the goal, such as a before/after survey measuring individual perspectives/learnings from reading the report.
 
-The study is being developed and produced in collaboration with tEQuitable,
+The study is being developed and produced in collaboration with [tEQuitable](https://www.tequitable.com/).
 
 ## About tEQuitable
 [tEQuitable](https://www.tequitable.com/) is an independent, confidential, impartial, and off-the-record service that helps employees explore options for resolving conflicts, problems, or concerns in the workplace. They also identify trends and systemic issues in the organization and then recommend constructive changes to the leadership team for resolving systemic issues with a goal of promoting clarity and fairness.
