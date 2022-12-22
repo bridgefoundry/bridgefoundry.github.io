@@ -1,8 +1,12 @@
 # Study on Bias in Engineering with Actionable Outcomes for Engineering Leaders
 
-Systemic bias is a widespread and still poorly understood problem in tech. Studies exist showing bias in engineering, yet many tech leaders who want to help still don't know exactly how to help. Bridge Foundry wants to commission a study which will more clearly underscore the issues of discrimination and outline concrete action items for tech leaders. We need your help to fundraise for it!
+Systemic bias is a widespread and still poorly understood problem in tech. Studies exist showing bias in engineering, yet many tech leaders who want to help still don't know exactly how to help.
+Bridge Foundry has over a decade of experience creating positive change in the industry.
+This research project is part of an initiative to create broader impact for our work.
 
 ## The Fundraiser
+
+Bridge Foundry wants to commission a study which will more clearly underscore the issues of discrimination and outline concrete action items for tech leaders. We need your help to fundraise for it!
 
 Help us educate tech leaders! [Donations](https://secure.givelively.org/donate/bridge-foundry-inc/help-commission-a-study-on-bias-in-engineering) of any amount will help. 
 
