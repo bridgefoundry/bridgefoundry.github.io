@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Help Commission a Study on Bias in Engineering
+title: Study on Bias in Engineering with Actionable Outcomes for Engineering Leaders
 ---
-# Study on Bias in Engineering with Actionable Outcomes for Engineering Leaders
 
 Systemic bias is a widespread and still poorly understood problem in tech. Studies exist showing bias in engineering, yet many tech leaders who want to help still don't know exactly how to help.
 Bridge Foundry has over a decade of experience creating positive change in the industry.
