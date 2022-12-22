@@ -2,10 +2,14 @@
 layout: post
 title: Study on Bias in Engineering with Actionable Outcomes for Engineering Leaders
 ---
+_Bridge Foundry research, in collaboration with tEQuitable_
+
 
 Systemic bias is a widespread and still poorly understood problem in tech. Studies exist showing bias in engineering, yet many tech leaders who want to help still don't know exactly how to help.
-Bridge Foundry has over a decade of experience creating positive change in the industry.
+[Bridge Foundry](https://bridgefoundry.org/)  has over a decade of experience creating positive change in the industry.
 This research project is part of an initiative to create broader impact for our work.
+The study is being developed and produced in collaboration with [tEQuitable](https://www.tequitable.com/).
+
 
 ## The Fundraiser
 
@@ -31,8 +35,6 @@ inclusion. This qualitative research will be a small sampling, as the goal is to
 Narratives will be selected from the interviews to help readers spot inappropriate behavior in their workplaces. For over a decade, we have witnessed volunteers return to their workplace after a workshop, after hearing the stories of minorities that they have worked with, suddenly unable to "unsee" discriminatory behavior in their own workplaces. This trend led to the development of our theory that stories alongside data will have a far greater impact than the data would alone.
 
 The report will include recommendations on what steps can be taken to tackle the problems illustrated. We will also validate to what extent the report meets the goal, with tools such as a before/after survey measuring individual perspectives/learnings from reading the report.
-
-The study is being developed and produced in collaboration with [tEQuitable](https://www.tequitable.com/).
 
 ## About tEQuitable
 [tEQuitable](https://www.tequitable.com/) is an independent, confidential, impartial, and off-the-record service that helps employees of an organization explore options for resolving conflicts, problems, or concerns in the workplace. They also identify trends and systemic issues in the organization and recommend constructive changes to the leadership team for resolving systemic issues with a goal of promoting clarity and fairness.
