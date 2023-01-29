@@ -4,7 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="6ll_SrP56ArTtstGBUhTEP6vusbbpwf9Zgj4dQTkhM4" />
 
-  <title>Bridge Foundry</title>
+  {% if page.title %}
+    <title>{{ page.title }} - Bridge Foundry</title>
+  {% else %}
+    <title>Bridge Foundry</title>
+  {% endif %}
 
   <!-- Bootstrap -->
   <link href="{{ site.github.url }}/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
