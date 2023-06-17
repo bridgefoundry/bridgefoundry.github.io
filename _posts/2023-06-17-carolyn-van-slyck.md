@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Carolyn Van Slyck
+tags: ready
 ---
 It is with deep sadness that we write this update. Carolyn Van Slyck, a prominent member of Women Who Go and GoBridge, has passed away. She gave immense value to the organization, but more than that, she was a wonderful person to work with and this loss is felt deeply throughout the community.
+<!--more-->
 
 When Women Who Go had a change of leadership, Carolyn was one of the first to volunteer to help run the organization. Whenever you needed anything, she would make it happen. She had a lot on her plate, but wanted to make sure GoBridge and WWG were supported and nourished. She was involved in everything, very communicative and helpful wherever she could be.
 
