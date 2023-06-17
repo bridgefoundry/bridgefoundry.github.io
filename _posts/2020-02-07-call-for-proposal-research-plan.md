@@ -9,6 +9,7 @@ gather and train others in top technologies used in our industry. This is not
 just about the physical space for gatherings or funding more diverse
 participation at conferences. We also foster communities where people can feel
 like they belong in an industry with systemic bias against most people.
+<!-- more -->
 
 Over the past decade, we have grown as a volunteer-driven grassroots movement.
 This is a challenging feat and we are very proud of how each of us has played a
