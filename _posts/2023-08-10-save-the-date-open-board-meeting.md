@@ -9,7 +9,7 @@ We (the Bridge Foundry board) would like to invite all members of our community 
 
 We hope to see you all on Sept 21st, 2023. 11:00pm UTC
 
-[RSVP To let us know you are coming!](https://docs.google.com/forms/d/e/1FAIpQLSci1xERIDlSgvb5KCKBBuRX6X0blgviyLES4-qgsAeGe12tAg/viewform)
+[RSVP to let us know you are coming!](https://docs.google.com/forms/d/e/1FAIpQLSci1xERIDlSgvb5KCKBBuRX6X0blgviyLES4-qgsAeGe12tAg/viewform)
 
 Timezone cheatsheet (because timezones are hard)
 
