@@ -36,15 +36,15 @@ operate with full transparency, please take a look:
       <div class="board__members">
         <a name="board"></a>
         <h2>Board of Directors</h2>
-        <p>Desi McAdam, Chair</p>
+        <p>Desi McAdam, Chair & Secretary</p>
         <p>Melissa Xie, Treasurer</p>
-        <p>Kinsey Durham Grace, Secretary</p>
+        <p>Kinsey Durham Grace (on leave)</p>
         <p>Sarah Allen</p>
 
         <div class="board_staff">
           <a name="staff"></a>
           <h2>Staff Members</h2>
-          <p>Sarah Allen, CEO (on leave)</p>
+          <p>Sarah Allen, CEO (volunteer)</p>
           <p>Jéneen Perkins, <a href="https://consulteclat.com/">Eclat Enterprises, Finance Manager</a></p>
         </div>
 
