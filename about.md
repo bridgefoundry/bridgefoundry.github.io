@@ -38,8 +38,8 @@ operate with full transparency, please take a look:
         <h2>Board of Directors</h2>
         <p>Desi McAdam, Chair & Secretary</p>
         <p>Melissa Xie, Treasurer</p>
-        <p>Kinsey Durham Grace (on leave)</p>
         <p>Sarah Allen</p>
+        <p>Laura Kirby</p>
 
         <div class="board_staff">
           <a name="staff"></a>
@@ -59,7 +59,7 @@ operate with full transparency, please take a look:
         <p>Rachel Myers, Board Member at Large</p>
         <p>Katherine Fellows, ClojureBridge</p>
         <p>Carlisia Campos, GoBridge</p>
-        <p>Kinsey Durham, Chair</p>
+        <p>Kinsey Durham Grace, Chair & Secretary</p>
         <p>Marcy Campbell, Fundraising</p>
         <p>Bill Kennedy, GoBridge</p>
         <p>Laura Kirby, Chair</p>
