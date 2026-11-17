@@ -1,0 +1,8 @@
+# Local development overrides. Use with:
+#   bundle exec jekyll serve --config _config.yml,_config_dev.yml
+#
+# Templates link CSS, images and pages via {{ site.github.url }}. Without
+# GitHub API access, that resolves to a github.com/pages/... URL locally,
+# which leaves the page unstyled. Point it at the local server instead.
+github:
+  url: http://localhost:4000
