@@ -321,3 +321,33 @@ footer {
 #bu-checkout iframe {
   max-height: 900px !important;
 }
+
+// Images that text wraps around, e.g. in blog posts:
+//   <img class="img-wrap-left" ...> or <img class="img-wrap-right" ...>
+// Full width on small screens, floated beside the text on wider ones.
+// Selectors include .row/p so they override the full-width img rules above.
+.row img.img-wrap-left, .row img.img-wrap-right,
+p img.img-wrap-left, p img.img-wrap-right {
+  width: 100%;
+  padding: 0;
+  margin: 10px 0 20px;
+}
+
+@media (min-width: 768px) {
+  .row img.img-wrap-left, p img.img-wrap-left {
+    float: left;
+    width: 45%;
+    margin: 5px 25px 15px 0;
+  }
+
+  .row img.img-wrap-right, p img.img-wrap-right {
+    float: right;
+    width: 45%;
+    margin: 5px 0 15px 25px;
+  }
+}
+
+// Put after wrapped content so the next section starts below the image.
+.clear-floats {
+  clear: both;
+}
