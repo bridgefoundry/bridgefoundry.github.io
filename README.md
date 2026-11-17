@@ -26,11 +26,39 @@ tags: ready
 
 ## Local development
 
-Install Ruby and then run:
+### 1. Install Ruby
+
+Install the Ruby version listed in `.ruby-version` (currently 3.3.13). Ruby
+must be built against **OpenSSL 3**, or the `eventmachine` gem will fail to
+compile during `bundle install`. On macOS, install OpenSSL 3 with Homebrew first:
+
+```
+brew install openssl@3
+```
+
+Then install Ruby with your version manager:
+
+* **rbenv / asdf / mise:** these use OpenSSL 3 automatically, e.g.
+  `rbenv install 3.3.13`.
+* **RVM:** pass the OpenSSL path explicitly:
+  ```
+  rvm install 3.3.13 --with-openssl-dir=$(brew --prefix openssl@3)
+  ```
+  RVM also reads `.ruby-gemset` and switches to a project gemset
+  (`bridgefoundry-site`) when you `cd` into this folder.
+
+Check that Ruby is using OpenSSL 3:
+
+```
+ruby -v                                         # 3.3.13
+ruby -ropenssl -e 'puts OpenSSL::OPENSSL_VERSION'   # OpenSSL 3.x
+```
+
+### 2. Install gems
 
 ```
 gem install bundler
-bundle
+bundle install
 ```
 
 Note: the website integrates two other repos, which are each GitHub Pages
@@ -42,13 +70,27 @@ If you want to make changes to those, work directly in these separate repos:
 * [code of conduct](https://github.com/bridgefoundry/code-of-conduct)
 * [workshop-map](https://github.com/bridgefoundry/workshop-map)
 
-To run the site:
+### 3. Run the site
 
 ```
 bundle exec jekyll serve
 ```
 
 point your browser at: http://localhost:4000/
+
+These warnings during the build are expected and can be ignored:
+
+* `GitHub Metadata: No GitHub API authentication could be found`
+* `To use retry middleware with Faraday v2.0+, install faraday-retry gem`
+
+### Troubleshooting
+
+* **`eventmachine` fails to build** (for example `Undefined symbols ...
+  _SSL_get1_peer_certificate`): your Ruby was built against a different
+  OpenSSL than the one `eventmachine` finds. Reinstall Ruby against OpenSSL 3
+  as described above, then run `bundle install` again.
+* **`cannot load such file -- openssl`** when running `gem install`: Ruby was
+  built without OpenSSL. Reinstall it as described above.
 
 
 ## Deploying the site
