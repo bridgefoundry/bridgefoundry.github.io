@@ -47,6 +47,23 @@ Then install Ruby with your version manager:
   RVM also reads `.ruby-gemset` and switches to a project gemset
   (`bridgefoundry-site`) when you `cd` into this folder.
 
+Switch to the installed version.
+
+* Version managers read `.ruby-version` when you `cd` into the project, so open a new terminal (or re-enter the folder) after installing:
+
+```
+cd ..; cd bridgefoundry.github.io
+```
+
+If `ruby -v` still shows a different version, switch manually:
+
+* **rbenv:** `rbenv local 3.3.13` (or `rbenv shell 3.3.13` for the current
+  terminal only)
+* **asdf:** `asdf local ruby 3.3.13`
+* **mise:** `mise use ruby@3.3.13`
+* **RVM:** `rvm use 3.3.13@bridgefoundry-site --create`. To make it your
+  default everywhere, run `rvm alias create default 3.3.13`.
+
 Check that Ruby is using OpenSSL 3:
 
 ```
@@ -73,8 +90,14 @@ If you want to make changes to those, work directly in these separate repos:
 ### 3. Run the site
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
+
+`_config_dev.yml` points `site.github.url` at `http://localhost:4000`.
+Without it, stylesheets and images load from a github.com URL that doesn't
+exist, and the page appears unstyled. There's no separate build step:
+`jekyll serve` builds the site and rebuilds when files change. (Changes to the
+config files themselves need a server restart.)
 
 point your browser at: http://localhost:4000/
 
