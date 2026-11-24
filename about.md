@@ -36,10 +36,9 @@ operate with full transparency, please take a look:
       <div class="board__members">
         <a name="board"></a>
         <h2>Board of Directors</h2>
-        <p>Desi McAdam, Chair & Secretary</p>
-        <p>Melissa Xie, Treasurer</p>
+        <p>Laura Kirby, Chair & Treasurer</p>
+        <p>Margaret Parsa, Secretary</p>
         <p>Sarah Allen</p>
-        <p>Laura Kirby</p>
 
         <div class="board_staff">
           <a name="staff"></a>
@@ -50,6 +49,8 @@ operate with full transparency, please take a look:
 
         <h2>Past Board Members</h2>
         <a name="past-board-members"></a>
+        <p>Melissa Xie, Treasurer</p>
+        <p>Desi McAdam, Chair & Secretary</p>
         <p>Isa Herico Velasco, Secretary</p>
         <p>Eggya Chiquita, Secretary</p>
         <p>Ilen Zazueta-Hall, Chair</p>
